@@ -27,6 +27,7 @@ Arduino `.ino` files for the main logic and sensor testing are available in `/co
 
 ## 🎥 Demo
 ![Sumobot Demo](media/demo.gif)
+https://youtube.com/shorts/j7H8w4HQo3c?feature=share
 
 ## 📄 Report
 See `/docs/` for the full technical report or build log.
