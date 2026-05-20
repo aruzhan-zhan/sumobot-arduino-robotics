@@ -44,13 +44,17 @@ The robot control logic is written in C++ using the Arduino IDE. The code handle
 
 Arduino `.ino` files for the main logic and sensor testing are available in the `/code/` folder.
 
-## Demo
+## Demo and Media
 Watch the demo (my bot is on the left!):  
 https://youtube.com/shorts/j7H8w4HQo3c?feature=share
 
-## Media
+| Before Round | Midway Build |
+|---|---|
+| ![Sumobot before the round](media/before_round.jpg) | ![Sumobot midway through the build process](media/midway_build.jpg) |
 
-Photos and videos of the robot, build process, and competition setup are available in the `/media/` folder.
+| With Robot | Competition |
+|---|---|
+| ![Aruzhan with the completed sumobot](media/me_with_bot.jpg) | ![Competition is over!](media/competition.jpg) |
 
 ## Author
 
