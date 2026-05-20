@@ -45,8 +45,6 @@ The robot control logic is written in C++ using the Arduino IDE. The code handle
 Arduino `.ino` files for the main logic and sensor testing are available in the `/code/` folder.
 
 ## Demo
-![Sumobot Demo](media/demo.gif)
-
 Watch the demo (my bot is on the left!):  
 https://youtube.com/shorts/j7H8w4HQo3c?feature=share
 
