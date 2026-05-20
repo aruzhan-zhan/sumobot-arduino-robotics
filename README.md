@@ -48,6 +48,7 @@ Arduino `.ino` files for the main logic and sensor testing are available in the 
 Watch the demo (my bot is on the left!):  
 https://youtube.com/shorts/j7H8w4HQo3c?feature=share
 
+
 | Before Round | Midway Build |
 |---|---|
 | ![Sumobot before the round](media/before_round.jpg) | ![Sumobot midway through the build process](media/midway_build.jpg) |
